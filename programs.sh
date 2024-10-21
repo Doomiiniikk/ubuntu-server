@@ -15,6 +15,11 @@ sudo apt install micro && echo "curl installed successfully"
 echo "installing curl"
 sudo apt install curl && echo "curl installed successfully"
 
+echo "installing btop"
+sudo apt install btop && echo "btop installed successfully"
+
+
+
 # pyenv - a python environment manage
 echo "installing pyenv"
 curl https://pyenv.run | bash
